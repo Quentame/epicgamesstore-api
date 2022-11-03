@@ -9,7 +9,7 @@ library for working with the Epic Games Store API
 Prerequisites
 ---------------
 
-epicgamesstore_api works with Python 3.6 or higher, other versions may not work.
+epicgamesstore_api works with Python 3.7 or higher, other versions may not work.
 
 
 
