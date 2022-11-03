@@ -5,11 +5,11 @@ API Reference
 
 API Wrapper
 -------------------------
-   .. automodule:: epicstore_api.api
+   .. automodule:: epicgamesstore_api.api
       :members:
       :show-inheritance:
 API Exceptions
 -------------------------
-   .. automodule:: epicstore_api.exc
+   .. automodule:: epicgamesstore_api.exc
       :members:
       :show-inheritance:

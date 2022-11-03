@@ -3,13 +3,13 @@
 Introduction
 ==============
 
-This is the documentation for epicstore_api,
+This is the documentation for epicgamesstore_api,
 library for working with the Epic Games Store API
 
 Prerequisites
 ---------------
 
-epicstore_api works with Python 3.6 or higher, other versions may not work.
+epicgamesstore_api works with Python 3.7 or higher, other versions may not work.
 
 
 
@@ -20,11 +20,11 @@ Installing
 
 You can get the library directly from PyPI: ::
 
-    python3 -m pip install -U epicstore_api
+    python3 -m pip install -U epicgamesstore_api
 
 If you are using Windows, then the following should be used instead: ::
 
-    py -3 -m pip install -U epicstore_api
+    py -3 -m pip install -U epicgamesstore_api
 
 
 Remember to check your permissions!
@@ -37,7 +37,7 @@ You can see other examples in ``examples/`` directory:
 
 .. code-block:: python3
 
-    from epicstore_api import EpicGamesStoreAPI, OfferData
+    from epicgamesstore_api import EpicGamesStoreAPI, OfferData
 
     api = EpicGamesStoreAPI()
     namespace, slug = list(api.get_product_mapping().items())[0]

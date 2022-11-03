@@ -1,4 +1,4 @@
-from epicstore_api import EpicGamesStoreAPI, OfferData
+from epicgamesstore_api import EpicGamesStoreAPI, OfferData
 
 
 def main():

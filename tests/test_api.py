@@ -1,5 +1,5 @@
 import pytest
-from epicstore_api import EpicGamesStoreAPI, EGSException
+from epicgamesstore_api import EpicGamesStoreAPI, EGSException
 
 
 def main():

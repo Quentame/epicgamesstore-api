@@ -1,23 +1,23 @@
-# epicstore_api
+# epicgamesstore_api
 
-[![Current pypi version](https://img.shields.io/pypi/v/epicstore-api.svg)](https://pypi.org/project/epicstore-api/)
-[![Supported py versions](https://img.shields.io/pypi/pyversions/epicstore-api.svg)](https://pypi.org/project/epicstore-api/)
-[![Downloads](https://pepy.tech/badge/epicstore-api)](https://pypi.org/project/epicstore-api/)
+[![Current pypi version](https://img.shields.io/pypi/v/epicgamesstore-api.svg)](https://pypi.org/project/epicgamesstore-api/)
+[![Supported py versions](https://img.shields.io/pypi/pyversions/epicgamesstore-api.svg)](https://pypi.org/project/epicgamesstore-api/)
+[![Downloads](https://pepy.tech/badge/epicgamesstore-api)](https://pypi.org/project/epicgamesstore-api/)
 
 An unofficial library to work with Epic Games Store Web API.
 
 ## Installing
 
-**Python 3.6 or higher is required**
+**Python 3.7 or higher is required**
 
 To install the library you can just run the following command:
 
 ``` sh
 # Linux/macOS
-python3 -m pip install -U epicstore_api
+python3 -m pip install -U epicgamesstore_api
 
 # Windows
-py -3 -m pip install -U epicstore_api
+py -3 -m pip install -U epicgamesstore_api
 ```
 
 
@@ -47,4 +47,4 @@ You can find more examples in the examples directory.
 Feel free to contribute by creating PRs and sending your issues
 
 ## Links
-* [Documentation](https://epicstore-api.readthedocs.io/en/latest/)
+* [Documentation](https://epicgamesstore-api.readthedocs.io/en/latest/)

@@ -1,4 +1,4 @@
-from epicstore_api import EpicGamesStoreAPI
+from epicgamesstore_api import EpicGamesStoreAPI
 from datetime import datetime
 
 
