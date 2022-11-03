@@ -18,9 +18,9 @@ sys.path.insert(0, os.path.abspath('../../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'epicstore_api'
-copyright = '2020, SD4RK'
-author = 'SD4RK'
+project = 'epicgamesstore_api'
+author = 'SD4RK & Quentame'
+copyright = f'2022, {author}'
 
 
 # -- General configuration ---------------------------------------------------
@@ -56,7 +56,7 @@ master_doc = 'index'  # for old versions of sphinx
 
 def remove_module_docstring(app, what, name, obj, options, lines):
     print(app, what, name, obj, options, lines)
-    if what == "module" and "epicstore_api" in name:
+    if what == "module" and "epicgamesstore_api" in name:
         del lines[:]
 
 

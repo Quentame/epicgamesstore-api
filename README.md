@@ -1,4 +1,4 @@
-# epicstore_api
+# epicgamesstore_api
 
 [![Current pypi version](https://img.shields.io/pypi/v/epicstore-api.svg)](https://pypi.org/project/epicstore-api/)
 [![Supported py versions](https://img.shields.io/pypi/pyversions/epicstore-api.svg)](https://pypi.org/project/epicstore-api/)
@@ -14,10 +14,10 @@ To install the library you can just run the following command:
 
 ``` sh
 # Linux/macOS
-python3 -m pip install -U epicstore_api
+python3 -m pip install -U epicgamesstore_api
 
 # Windows
-py -3 -m pip install -U epicstore_api
+py -3 -m pip install -U epicgamesstore_api
 ```
 
 
